@@ -1,4 +1,4 @@
-![](readme_information/readme_1.JPG)
+![](readme_information/readme_1_1.JPG)
 
 ![](readme_information/readme_2.JPG)
 
